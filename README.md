@@ -8,5 +8,3 @@
 luh2raww/luh2raww is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-luh2raww find a nice big home
-she end sup with seven kids
